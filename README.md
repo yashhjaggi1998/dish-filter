@@ -6,9 +6,9 @@ This is a practice project to learn react framework and how the components of re
 
 1. Without. Filter
 
-![My Image](filter.png)
+![My Image](noFilter.png)
 
 
 2. With Filter
 
-![My Image](noFilter.png)
+![My Image](filter.png)
